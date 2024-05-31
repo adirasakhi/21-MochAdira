@@ -122,11 +122,15 @@ Sebuah platform perpustakaan digital yang memukau, menampilkan desain modern yan
     ```
 
 4. **Setelah Memulai Web Sudah Ada Akun Yang Tersedia**
-- **akun Admin**
+- ### Akun Admin
 Email = admin@example.com
+
 password = password
-- **akun Penyewa**
+
+- ### Akun Penyewa
+
 Email = penyewa@example.com
+
 password = 12345678
 
 perpus-v2 dibuat oleh [Adira](https://instagram.com/adrshki_/).
