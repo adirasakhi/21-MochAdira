@@ -6,7 +6,7 @@
 
 ### ERD (Diagram Entitas Hubungan)
 
-![ERD](https://github.com/adirasakhi/21-MochAdira/blob/master/erd.png?raw=true)
+![ERD](https://github.com/adirasakhi/21-MochAdira/blob/master/erd.png)
 
 ### Halaman Utama
 
