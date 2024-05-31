@@ -133,4 +133,4 @@ Email = penyewa@example.com
 
 password = 12345678
 
-perpus-v2 dibuat oleh [Adira](https://instagram.com/adrshki_/).
+CarXRent dibuat oleh [Adira](https://instagram.com/adrshki_/).
