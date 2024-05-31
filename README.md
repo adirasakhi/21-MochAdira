@@ -10,35 +10,35 @@
 
 ### Halaman Utama
 
-![Preview-1](https://github.com/adirasakhi/21-MochAdira/blob/master/preview-1.png?raw=true)
+![Preview-1](https://github.com/adirasakhi/21-MochAdira/blob/main/preview-1.png?raw=true)
 
 ### Halaman Daftar Mobil
 
-![Preview-2](https://github.com/adirasakhi/21-MochAdira/blob/master/preview-2.png?raw=true)
+![Preview-2](https://github.com/adirasakhi/21-MochAdira/blob/main/preview-2.png?raw=true)
 
 ### Halaman Show/Tampilan Mobil
 
-![Preview-3](https://github.com/adirasakhi/21-MochAdira/blob/master/preview-3.png?raw=true)
+![Preview-3](https://github.com/adirasakhi/21-MochAdira/blob/main/preview-3.png?raw=true)
 
 ### Halaman Rental User
 
-![Preview-4](https://github.com/adirasakhi/21-MochAdira/blob/master/preview-4.png?raw=true)
+![Preview-4](https://github.com/adirasakhi/21-MochAdira/blob/main/preview-4.png?raw=true)
 
 ### Halaman Dashboard Admin
 
-![Preview-5](https://github.com/adirasakhi/21-MochAdira/blob/master/preview-5.png?raw=true)
+![Preview-5](https://github.com/adirasakhi/21-MochAdira/blob/main/preview-5.png?raw=true)
 
 ### Halaman Data User Admin
 
-![Preview-6](https://github.com/adirasakhi/21-MochAdira/blob/master/preview-6.png?raw=true)
+![Preview-6](https://github.com/adirasakhi/21-MochAdira/blob/main/preview-6.png?raw=true)
 
 ### Halaman Data Mobil Admin
 
-![Preview-7](https://github.com/adirasakhi/21-MochAdira/blob/master/preview-7.png?raw=true)
+![Preview-7](https://github.com/adirasakhi/21-MochAdira/blob/main/preview-7.png?raw=true)
 
 ### Halaman Data Rental Admin
 
-![Preview-8](https://github.com/adirasakhi/21-MochAdira/blob/master/preview-8.png?raw=true)
+![Preview-8](https://github.com/adirasakhi/21-MochAdira/blob/main/preview-8.png?raw=true)
 
 ---
 
